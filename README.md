@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @loomoni
 - 👀 I’m interested in python and laravel
-- 🌱 I’m currently working on python frameworks specicificaly odoo and laravel
-- 💞️ I’m looking to collaborate with odoo teams
+- 🌱 I’m currently working on python frameworks specicificaly odoo and PHP specifically laravel
 - 📫 How to reach me whatsapp no +255765844637 / email: loomonimorwo1@gmail.com
 
 <!---
